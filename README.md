@@ -67,3 +67,12 @@
    2,992,511
    (29)
    Dead simple React snippets you will actually use
+1. React Bootstrap 4 Snippets
+   v1.1.0
+   Himel
+   33,642
+   (2)
+   Bootstrap 4 Snippets for ReactJS
+   Disable
+   Uninstall
+   This extension is enabled globally.
