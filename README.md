@@ -60,3 +60,10 @@
    BLACKBOX AI
    1,094,479
    (115)
+9. Simple React Snippets
+   v1.2.7
+   Burke Holland
+   burkeholland.dev
+   2,992,511
+   (29)
+   Dead simple React snippets you will actually use
