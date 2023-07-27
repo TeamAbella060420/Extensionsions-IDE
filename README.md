@@ -54,3 +54,68 @@
    36,433,608
    (449)
    Launch a development local Server with live reload feature for
+
+8. ESLint
+   v2.4.2
+   Microsoft
+   microsoft.com
+   28,488,919
+   (221)
+   Integrates ESLint JavaScript into VS Code.
+   Disable
+   Uninstall
+   This extension is enabled globally.
+
+9. Blackbox AI Code Generation, Code Chat, Code Search
+   v1.0.51
+   BLACKBOX AI
+   Write Better Code 100x faster. BLACKBOX AI is an AI coding assistant that helps developers by providing real-time code completion, documentation, and debugging suggestions
+
+10. Auto Rename Tag
+    v0.1.10
+    Jun Han
+    14,426,794
+    (187)
+    Auto rename paired HTML/XML tag
+
+11. Path Intellisense
+    v2.8.4
+    Christian Kohler
+    christiankohler.net
+    10,533,277
+    (116)
+    Visual Studio Code plugin that autocompletes filenames
+    Disable
+    Uninstall
+    This extension is enabled globally.
+
+12. Thunder Client
+    v2.9.3
+    Ranga Vadhineni
+    thunderclient.com
+    2,432,528
+    (173)
+    Lightweight Rest API Client for VS Code
+    Disable
+    Uninstall
+    This extension is enabled globally.
+
+13. CSS Peek
+    v4.4.1
+    Pranay Prakash
+    pranay.gp
+    4,580,329
+    (85)
+    Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
+
+14. GitHub Copilot
+    v1.99.289
+    GitHub
+    github.com
+    7,769,733
+    (910)
+    Your AI pair programmer
+    Disable
+    Uninstall
+    Switch to Pre-Release Version
+    This extension is enabled globally.
