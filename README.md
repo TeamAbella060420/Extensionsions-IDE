@@ -55,6 +55,7 @@
    (449)
    Launch a development local Server with live reload feature for
 
+<<<<<<< HEAD
 8. ESLint
    v2.4.2
    Microsoft
@@ -119,3 +120,26 @@
     Uninstall
     Switch to Pre-Release Version
     This extension is enabled globally.
+=======
+8. Blackbox AI Code Generation, Code Chat, Code Search
+   v1.0.44
+   BLACKBOX AI
+   1,094,479
+   (115)
+9. Simple React Snippets
+   v1.2.7
+   Burke Holland
+   burkeholland.dev
+   2,992,511
+   (29)
+   Dead simple React snippets you will actually use
+1. React Bootstrap 4 Snippets
+   v1.1.0
+   Himel
+   33,642
+   (2)
+   Bootstrap 4 Snippets for ReactJS
+   Disable
+   Uninstall
+   This extension is enabled globally.
+>>>>>>> 39fee903c95e70446294572ef03551ed3bcdaaa5
